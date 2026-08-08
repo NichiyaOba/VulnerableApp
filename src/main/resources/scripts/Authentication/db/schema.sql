@@ -14,6 +14,8 @@ CREATE TABLE auth_users (
 -- Application user has full access (for functional purposes)
 GRANT ALL ON auth_users TO application;
 
--- A read-only user for exploration by the attacker/user
-CREATE USER IF NOT EXISTS readonly_user PASSWORD 'readonly_password';
-GRANT SELECT ON auth_users TO readonly_user;
+-- No shared exploration account is created here. A07:2025 ("Do not ship or deploy with any
+-- default credentials", CWE-798 / CWE-1392) rules out shipping a fixed readonly_user /
+-- readonly_password pair, and granting it SELECT on auth_users handed every visitor a copy of
+-- the credential store. The hashing levels expose their stored hash through the API response,
+-- so the module stays explorable without a standing database account.
