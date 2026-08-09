@@ -14,11 +14,6 @@ CWE-1021,Clickjacking,src/main/java/org/sasanlabs/service/vulnerability/clickjac
 CWE-1021,Clickjacking,src/main/java/org/sasanlabs/service/vulnerability/clickjacking/ClickjackingVulnerability.java,102,1
 CWE-1021,Clickjacking,src/main/java/org/sasanlabs/service/vulnerability/clickjacking/ClickjackingVulnerability.java,165,1
 CWE-1021,Clickjacking,src/main/java/org/sasanlabs/service/vulnerability/clickjacking/ClickjackingVulnerability.java,192,1
-CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,64,1
-CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,78,1
-CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,101,1
-CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,127,1
-CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,152,1
 CWE-639,IDOR,src/main/java/org/sasanlabs/service/vulnerability/idor/IDORVulnerability.java,68,1
 CWE-639,IDOR,src/main/java/org/sasanlabs/service/vulnerability/idor/IDORVulnerability.java,107,1
 CWE-639,IDOR,src/main/java/org/sasanlabs/service/vulnerability/idor/IDORVulnerability.java,143,1
