@@ -38,11 +38,6 @@ CWE-113,Header Injection,src/main/java/org/sasanlabs/service/vulnerability/jwt/J
 CWE-1188,Insecure Configuration Jwt,src/main/java/org/sasanlabs/service/vulnerability/jwt/JWTVulnerability.java,714,1
 CWE-347,Server Side Vulnerable Jwt,src/main/java/org/sasanlabs/service/vulnerability/jwt/JWTVulnerability.java,768,1
 CWE-1188,Insecure Configuration Jwt,src/main/java/org/sasanlabs/service/vulnerability/jwt/JWTVulnerability.java,821,1
-CWE-90,Ldap Injection,src/main/java/org/sasanlabs/service/vulnerability/ldapInjection/LDAPInjectionVulnerability.java,102,1
-CWE-90,Ldap Injection,src/main/java/org/sasanlabs/service/vulnerability/ldapInjection/LDAPInjectionVulnerability.java,131,1
-CWE-90,Ldap Injection,src/main/java/org/sasanlabs/service/vulnerability/ldapInjection/LDAPInjectionVulnerability.java,160,1
-CWE-90,Ldap Injection,src/main/java/org/sasanlabs/service/vulnerability/ldapInjection/LDAPInjectionVulnerability.java,215,1
-CWE-90,Ldap Injection,src/main/java/org/sasanlabs/service/vulnerability/ldapInjection/LDAPInjectionVulnerability.java,254,1
 CWE-640,Predictable Password Reset Token,src/main/java/org/sasanlabs/service/vulnerability/passwordReset/PasswordResetService.java,179,1
 CWE-640,Password Reset Token Without Expiry,src/main/java/org/sasanlabs/service/vulnerability/passwordReset/PasswordResetService.java,240,1
 CWE-640,Reusable Password Reset Token,src/main/java/org/sasanlabs/service/vulnerability/passwordReset/PasswordResetService.java,244,1
