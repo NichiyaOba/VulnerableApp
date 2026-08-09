@@ -36,5 +36,3 @@ CWE-330,Predictable Session Id,src/main/java/org/sasanlabs/service/vulnerability
 CWE-330,Obscured Predictable Session Id,src/main/java/org/sasanlabs/service/vulnerability/sessionManagement/SessionManagementService.java,130,1
 CWE-613,Missing Logout Invalidation,src/main/java/org/sasanlabs/service/vulnerability/sessionManagement/SessionManagementService.java,276,1
 CWE-307,No Login Rate Limiting,src/main/java/org/sasanlabs/service/vulnerability/sessionManagement/SessionManagementService.java,177,1
-CWE-611,Xxe,src/main/java/org/sasanlabs/service/vulnerability/xxe/XXEVulnerability.java,64,1
-CWE-611,Xxe,src/main/java/org/sasanlabs/service/vulnerability/xxe/XXEVulnerability.java,137,1
