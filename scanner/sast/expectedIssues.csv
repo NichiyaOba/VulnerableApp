@@ -19,32 +19,6 @@ CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/comma
 CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,101,1
 CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,127,1
 CWE-77,Command Injection,src/main/java/org/sasanlabs/service/vulnerability/commandInjection/CommandInjection.java,152,1
-CWE-22,Path Traversal,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,148,1
-CWE-79,Persistent XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,148,1
-CWE-79,Reflected XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,148,1
-CWE-434,Unrestricted File Upload,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,148,1
-CWE-79,Persistent XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,169,1
-CWE-79,Reflected XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,169,1
-CWE-434,Unrestricted File Upload,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,169,1
-CWE-79,Persistent XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,189,1
-CWE-79,Reflected XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,189,1
-CWE-434,Unrestricted File Upload,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,189,1
-CWE-79,Persistent XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,215,1
-CWE-79,Reflected XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,215,1
-CWE-434,Unrestricted File Upload,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,215,1
-CWE-79,Persistent XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,241,1
-CWE-79,Reflected XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,241,1
-CWE-434,Unrestricted File Upload,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,241,1
-CWE-79,Persistent XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,272,1
-CWE-79,Reflected XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,272,1
-CWE-434,Unrestricted File Upload,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,272,1
-CWE-79,Persistent XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,301,1
-CWE-79,Reflected XSS,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,301,1
-CWE-434,Unrestricted File Upload,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,301,1
-CWE-22,Path Traversal,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,334,1
-CWE-730,Denial Of Service,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,349,1
-CWE-400,Uncontrolled Resource Consumption,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,349,1
-CWE-22,Path Traversal,src/main/java/org/sasanlabs/service/vulnerability/fileupload/UnrestrictedFileUpload.java,356,1
 CWE-639,IDOR,src/main/java/org/sasanlabs/service/vulnerability/idor/IDORVulnerability.java,68,1
 CWE-639,IDOR,src/main/java/org/sasanlabs/service/vulnerability/idor/IDORVulnerability.java,107,1
 CWE-639,IDOR,src/main/java/org/sasanlabs/service/vulnerability/idor/IDORVulnerability.java,143,1
